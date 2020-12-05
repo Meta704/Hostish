@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748452366313",
+    "firebase_url": "https://hostish-31a49.firebaseio.com",
+    "project_id": "hostish-31a49",
+    "storage_bucket": "hostish-31a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748452366313:android:0e78363ad813499b316d78",
+        "android_client_info": {
+          "package_name": "com.hostish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748452366313-5897pv6vkh9jn61qsnm4lop011641itv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostish",
+            "certificate_hash": "27438b698ef7af37f589e55c854cd66f569d18e4"
+          }
+        },
+        {
+          "client_id": "748452366313-i3bqbkvtui3s58tdd3qtb82p9552cmbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpoglh7mHR63KQ0duH8HSGzASOS1PwhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748452366313-i3bqbkvtui3s58tdd3qtb82p9552cmbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
